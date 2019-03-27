@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'FlappyBirdy';
+    src: url('FlappyBirdy.woff2') format('woff2'),
+        url('FlappyBirdy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

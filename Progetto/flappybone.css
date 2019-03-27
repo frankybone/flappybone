@@ -1,0 +1,24 @@
+@font-face{
+    font-family: 'FlappyBirdy';
+    src: url('font/FlappyBirdy.woff2') format('woff2'), url('font/FlappyBirdy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h1{
+	position: relative;
+    text-align: center;
+    font-family: 'FlappyBirdy';
+    font-size: 80;
+}
+
+#button{
+	position: absolute;
+	top: 400px;
+	left: 200px;
+	width: 200px;
+	height: 50px;
+	font-size: 20px;
+	
+}

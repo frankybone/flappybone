@@ -31,14 +31,19 @@ The application is written in HTML and CSS, for the graphics, while in Javascrip
   This project includes several external libraries, that are:
   
   <ol>
-	  <li>ml5.js</li>
-	<blockquote>
-		<a href="https://ml5js.org" >
-		https://ml5js.org
-		</a>
-	</blockquote>
-	  <li>secondo elemento</li>
-	  <li>terzo elemento</li>
+	<li>ml5.js</li>
+		<blockquote>
+			<a href="https://ml5js.org" >
+			https://ml5js.org
+			</a>
+		</blockquote>
+	<li>p5.dom.js</li>
+		<blockquote>
+			<a href="https://p5js.org/reference/#/libraries/p5.dom" >
+			https://p5js.org/reference/#/libraries/p5.dom
+			</a>
+		</blockquote>
+	<li>terzo elemento</li>
 </ol>
   
   

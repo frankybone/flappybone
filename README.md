@@ -54,10 +54,10 @@ The application is written in HTML and CSS, for the graphics, while in Javascrip
   <br>The <b>ml5.js library</b> uses a pitch detection algorithm
 to estimate the fundamental frequency of an audio signal, and returns a decimal number that is used to associate
 the position along the axis of the bird's ordinates with the frequency in question. <br>
-Moreover, the <b>p5.dom.js library</b> is used for canvas, text and images menagement, while the the <b>p5.sound.js library</b> is used for web audio features, such as the AudioContext creation and the microphone activation.<br><br>
+Moreover, the <b>p5.dom.js library</b> is used for canvas, text and images menagement, while the the <b>p5.sound.js library</b> is used for web audio features, such as the AudioContext creation and the microphone activation.
 
 The application is managed by a principal javascript file, <b>sketch.js</b>, which regulates the game mechanics creating the AudioContext, starting the pitch detection function, managing the score and calling the two files bird.js and pipe.js.<br>
-Actually, the files <b>bird.js</b> and <b>pipe.js</b> 
+Actually, the files <b>bird.js</b> and <b>pipe.js</b> operate indipendently the bird and the pipes variables, managing respectively the position and the displacement of the bird and the randomic position and displacement of the pipes.
 
 
 I reproduced the title and score string using the same font as the original game,

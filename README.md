@@ -61,6 +61,12 @@ Actually, the files <b>bird.js</b> and <b>pipe.js</b> operate indipendently the 
 
 The title and score string are reproduced using the same font as the original game,
 managed through a proper .css file: <b>flappynone.css</b>.
+	<blockquote>
+		<a href="https://www.dafont.com/flappybirdy.font" >
+			https://www.dafont.com/flappybirdy.font
+		</a>
+	</blockquote>
+
 
 Endly, 
 </p>

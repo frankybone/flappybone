@@ -68,14 +68,13 @@ managed through a proper .css file: <b>flappynone.css</b>.
 		</a>
 	</blockquote>
 
-Endly, the background image and the bird image have been worked in <b>Adobe Photoshop CC 2018</b> to make them fit with the canvas.
+Finally, the background image and the bird image have been worked in <b>Adobe Photoshop CC 2018</b> to make them fit with the canvas.
 	<blockquote>
-		Adobe Photoshop CC 2018
+		Adobe Photoshop CC 2018:
 		<a href="https://www.adobe.com/it/products/photoshop.html" >
 			https://www.adobe.com/it/products/photoshop.html
 		</a>
 	</blockquote>
-
 </p>
 
 Si consiglia l’uso di Firefox, in quanto il browser Chrome segnala un errore nella creazione dell’AudioContext.

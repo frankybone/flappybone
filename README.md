@@ -1,4 +1,4 @@
-# flappybone
+<h1>Flappybone</h1>
 ACTAM's project
 
 Studente: Francesco Lorenzo, Matricola: 921159, Corso: ACTAM.

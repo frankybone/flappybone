@@ -33,7 +33,9 @@ The application is written in HTML and CSS, for the graphics, while in Javascrip
   <ol>
 	  <li>ml5.js</li>
 	<blockquote>
-		<a https://ml5js.org ></a>
+		<a href="https://ml5js.org" >
+		https://ml5js.org
+		</a>
 	</blockquote>
 	  <li>secondo elemento</li>
 	  <li>terzo elemento</li>

@@ -101,6 +101,6 @@ I would like to thank my university professors for the acquired knowledge and su
 	</blockquote>
 <b>Francesco Lorenzo</b>: 
 <a href="mailto:francesco2.lorenzo@mail.polimi.it">
-Invia una email
-</a>.
+francesco2.lorenzo@mail.polimi.it
+</a>
 </p>

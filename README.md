@@ -85,7 +85,7 @@ It is recommend using Firefox, as the Chrome browser reports an error when creat
 
 <h2>Conclusions</h2>
 
-<b>Flappybone</b> was designed as a scalable application and new possible features could be implemented in the future, such as a menu game, different difficulties level, ranking of the best results. <br>
+<b>Flappybone</b> was designed as a scalable application and new possible features could be implemented in the future, such as a menu game, levels with increasing difficulty, ranking of the best results. <br>
 I would like to thank my university professors for the acquired knowledge and support during the development.
 <blockquote>
 		Project link:

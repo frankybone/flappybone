@@ -77,5 +77,12 @@ Finally, the background image and the bird image have been worked in <b>Adobe Ph
 	</blockquote>
 </p>
 
-Si consiglia l’uso di Firefox, in quanto il browser Chrome segnala un errore nella creazione dell’AudioContext.
+<h2>AudioContext Error</h2>
+
+<p>
+It is recommend using Firefox, as the Chrome browser reports an error when creating the AudioContext.
+</p>
+
+<h2>Conclusions</h2>
+
 Infine, ho effettuato l’upload del gioco al link “flappybone.surge.sh”.

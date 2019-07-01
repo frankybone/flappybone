@@ -99,5 +99,5 @@ I would like to thank my university professors for the acquired knowledge and su
 			https://github.com/frankybone/flappybone/blob/master/video.mp4
 		</a>
 	</blockquote>
-<b>FRANCESCO LORENZO: francesco1.lorenzo@mail.polimi.it</b>
+<b>Francesco Lorenzo</b>: <a href="francesco1.lorenzo@mail.polimi.it">Scrivi una mail</a>
 </p>

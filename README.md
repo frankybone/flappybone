@@ -99,6 +99,8 @@ I would like to thank my university professors for the acquired knowledge and su
 			https://github.com/frankybone/flappybone/blob/master/video.mp4
 		</a>
 	</blockquote>
-<b>Francesco Lorenzo</b>: <a href="mailtofrancesco2.lorenzo@mail.polimi.it">
-				francesco2.lorenzo@mail.polimi.it</a>
+<b>Francesco Lorenzo</b>: 
+<a href="mailto:francesco2.lorenzo@mail.polimi.it">
+Invia una email
+</a>.
 </p>

@@ -68,13 +68,15 @@ managed through a proper .css file: <b>flappynone.css</b>.
 		</a>
 	</blockquote>
 
+Endly, the background image and the bird image have been worked in <b>Adobe Photoshop CC 2018</b> to make them fit with the canvas.
+	<blockquote>
+		Adobe Photoshop CC 2018
+		<a href="https://www.adobe.com/it/products/photoshop.html" >
+			https://www.adobe.com/it/products/photoshop.html
+		</a>
+	</blockquote>
 
-Endly, 
 </p>
 
-
-Ho riprodotto la stringa del titolo e dello score utilizzando lo stesso font del gioco originale, 
-gestito tramite un apposito file .css, mentre la meccanica di gioco è gestita da un file principale (sketch.js) 
-collegato ad altri due file che gestiscono in maniera indipendente la variabile dell’uccellino e dei pipes (bird.js e pipe.js).
 Si consiglia l’uso di Firefox, in quanto il browser Chrome segnala un errore nella creazione dell’AudioContext.
 Infine, ho effettuato l’upload del gioco al link “flappybone.surge.sh”.

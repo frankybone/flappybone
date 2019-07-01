@@ -2,10 +2,10 @@
 
 <h2>Advanced Coding Tools and Methodologies</h2>
 
-<h3>01/07/2019 <br>
+<p>01/07/2019 <br>
   FRANCESCO LORENZO <br>
   CREMONA (CR)
-</h3>
+</p>
 ACTAM's project
 
 Studente: Francesco Lorenzo, Matricola: 921159, Corso: ACTAM.

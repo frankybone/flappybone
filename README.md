@@ -7,7 +7,7 @@
   <br>CREMONA (CR)
 </p>
 
-<h3>Owner and Rights</h3>
+<h2>Owner and Rights</h2>
 
 <p>
 The project was entirely realized by Francesco Lorenzo, graduates in Biomedical Engineeer at University of Padua and student of Music and Acoustics Engineering at Politecnico di Milano. <br>

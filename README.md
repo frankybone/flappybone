@@ -26,6 +26,13 @@ completely fluid and natural.
 
 <h2>Specifics</h2>
 
+<p>
+The application is written in HTML and CSS, for the graphics, while the logic in Javascript. <br>
+  This project includes several external libraries, that are:
+  
+  
+</p>
+
 Ciò è dovuto anche grazie alla libreria ml5.js, che sfrutta un algoritmo di pitch detection
 per stimare la frequenza fondamentale di un segnale audio, e restituisce un numero decimale che ho sfruttato per associare 
 la posizione lungo l’asse delle ordinate dell’uccellino con la frequenza in questione.

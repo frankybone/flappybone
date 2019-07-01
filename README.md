@@ -93,4 +93,10 @@ I would like to thank my university professors for the acquired knowledge and su
 			http://flappybone.surge.sh/
 		</a>
 	</blockquote>
+<blockquote>
+		Video tutorial:
+		<a href="https://github.com/frankybone/flappybone/blob/master/video.mp4" >
+			https://github.com/frankybone/flappybone/blob/master/video.mp4
+		</a>
+	</blockquote>
 </p>

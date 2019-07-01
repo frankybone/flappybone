@@ -3,8 +3,8 @@
 <h2>Advanced Coding Tools and Methodologies</h2>
 
 <p>01/07/2019 <br>
-  FRANCESCO LORENZO <br>
-  CREMONA (CR)
+  <br>FRANCESCO LORENZO <br>
+  <br>CREMONA (CR)
 </p>
 ACTAM's project
 

@@ -95,8 +95,8 @@ I would like to thank my university professors for the acquired knowledge and su
 	</blockquote>
 <blockquote>
 		Video tutorial:
-		<a href="https://github.com/frankybone/flappybone/blob/master/video.mp4" >
-			https://github.com/frankybone/flappybone/blob/master/video.mp4
+		<a href="https://www.youtube.com/watch?v=7-tC9O_b-nI&feature=youtu.be" >
+			https://www.youtube.com/watch?v=7-tC9O_b-nI&feature=youtu.be
 		</a>
 	</blockquote>
 <b>Francesco Lorenzo</b>: 

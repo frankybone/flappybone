@@ -1,3 +1,5 @@
+<img src="https://cdn.cogecolive.com/prod-20180515/generic_1526397738636915_ori.jpeg" alt="Mia Immagine">
+
 <h1>Flappybone</h1>
 
 <h2>Advanced Coding Tools and Methodologies</h2>
@@ -10,12 +12,15 @@
 <h2>Owner and Rights</h2>
 
 <p>
-The project was entirely realized by Francesco Lorenzo, graduates in Biomedical Engineeer at University of Padua and student of Music and Acoustics Engineering at Politecnico di Milano. <br>
+The project was entirely realized by Francesco Lorenzo, graduates in Biomedical Engineeer at University of Padua and student of Music and Acoustics Engineering at Politecnico of Milan. <br>
 To him belongs all the rights of the application.
 </p>
  
-Studente: Francesco Lorenzo, Matricola: 921159, Corso: ACTAM.
+<h2>Goals</h2>
 
+<p>
+  
+</p>
 Il progetto è nato dall’idea di volermi cimentare in un videogioco “arcade” con la possibilità di giocarci attraverso 
 uno strumento musicale.
 Essendo un trombonista, è stato facile per me scegliere il trombone a tal scopo, e ho scelto di rivisitare “flappy bird”, 

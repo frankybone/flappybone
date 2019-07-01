@@ -27,7 +27,7 @@ completely fluid and natural.
 <h2>Specifics</h2>
 
 <p>
-The application is written in HTML and CSS, for the graphics, while the logic in Javascript. <br>
+The application is written in HTML and CSS, for the graphics, while in Javascript for the logic. <br>
   This project includes several external libraries, that are:
   
   

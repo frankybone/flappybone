@@ -19,19 +19,13 @@ To him belongs all the rights of the application.
 <p>
 The project was born from the idea of wanting to try my hand at an arcade video game with the possibility of playing through a musical instrument.
 Being a trombonist, it was easy for me to choose the <b>trombone</b> for this purpose, and <br> I chose to revisit <b>flappy bird</b>, a popular game during 2013, with the possibility of interacting with harmonic sounds.<br>
-The aim of the game is to try to make the bird fly passing through the largest number of pipes possible, overcoming the force of gravity, playing sounds with different heights depending on the arrangement of the pipes that run in the background.
+The aim of the game is to try to make the bird fly passing through the largest number of pipes possible, overcoming the force of gravity, playing sounds with different heights depending on the arrangement of the pipes that run in the background.<br>
 Unlike other instruments such as the piano, the flute or the trumpet, the trombone, thanks to the coulisse, is capable of producing sounds in a continuous manner, the so-called <b>glissato</b>, thanks to which the little bird can fly in such a way
 completely fluid and natural.
 </p>
 
-Il progetto è nato dall’idea di volermi cimentare in un videogioco “arcade” con la possibilità di giocarci attraverso 
-uno strumento musicale.Essendo un trombonista, è stato facile per me scegliere il trombone a tal scopo, e ho scelto di rivisitare “flappy bird”, 
-gioco molto in voga nel 2013, con la possibilità di interagire attraverso i suoni armonici del trombone.
-Lo scopo del gioco è cercare di far volare l’uccellino, vincendo la forza di gravità, attraverso il maggior numero di pipes 
-possibile, suonando dei suoni con frequenze diverse a seconda della disposizione dei tubi che scorrono attraverso il background.
-A differenza di altri strumenti, quali ad esempio il pianoforte, il flauto o la tromba, il trombone, grazie alla coulisse, 
-è capace di produrre suoni in maniera continua, il così detto glissato, grazie ai quali l’uccellino può volare in maniera 
-del tutto fluida e naturale.
+<h2>Specifics</h2>
+
 Ciò è dovuto anche grazie alla libreria ml5.js, che sfrutta un algoritmo di pitch detection
 per stimare la frequenza fondamentale di un segnale audio, e restituisce un numero decimale che ho sfruttato per associare 
 la posizione lungo l’asse delle ordinate dell’uccellino con la frequenza in questione.

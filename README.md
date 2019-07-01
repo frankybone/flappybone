@@ -54,7 +54,9 @@ The application is written in HTML and CSS, for the graphics, while in Javascrip
   The <b>ml5.js library</b> uses a pitch detection algorithm
 to estimate the fundamental frequency of an audio signal, and returns a decimal number that is used to associate
 the position along the axis of the bird's ordinates with the frequency in question. <br>
-Moreover, the <b>p5.dom.js library</b> is used for canvas, text and images menagement, while the the <b>p5.sound.js library</b> is used for web audio features, such as the AudioContext creation and the microphone activation.
+Moreover, the <b>p5.dom.js library</b> is used for canvas, text and images menagement, while the the <b>p5.sound.js library</b> is used for web audio features, such as the AudioContext creation and the microphone activation.<br><br>
+
+
 </p>
 
 

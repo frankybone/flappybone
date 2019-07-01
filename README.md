@@ -84,5 +84,13 @@ It is recommend using Firefox, as the Chrome browser reports an error when creat
 </p>
 
 <h2>Conclusions</h2>
+<b>Flappybone</b> was designed as a scalable application and new possible features will be implemented in the future in the next updates, such as a menu game, different difficulties level, ranking of the best results. <br>
+I would like to thank my university professors for the acquired knowledge and support during the development.
 
+<blockquote>
+		Adobe Photoshop CC 2018:
+		<a href="flappybone.surge.sh" >
+			flappybone.surge.sh
+		</a>
+	</blockquote>
 Infine, ho effettuato l’upload del gioco al link “flappybone.surge.sh”.

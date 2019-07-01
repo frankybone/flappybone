@@ -30,6 +30,12 @@ completely fluid and natural.
 The application is written in HTML and CSS, for the graphics, while in Javascript for the logic. <br>
   This project includes several external libraries, that are:
   
+  <ol>
+	  <li>ml5.js</li>
+	  <li>secondo elemento</li>
+	  <li>terzo elemento</li>
+</ol>
+  
   
 </p>
 

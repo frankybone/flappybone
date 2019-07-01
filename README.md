@@ -6,8 +6,8 @@
   <br>FRANCESCO LORENZO <br>
   <br>CREMONA (CR)
 </p>
-ACTAM's project
 
+<h3>Owner and Rights</h3>
 Studente: Francesco Lorenzo, Matricola: 921159, Corso: ACTAM.
 
 Il progetto è nato dall’idea di volermi cimentare in un videogioco “arcade” con la possibilità di giocarci attraverso 

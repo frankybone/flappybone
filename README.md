@@ -19,10 +19,10 @@ To him belongs all the rights of the application.
 <h2>Goals</h2>
 
 <p>
-  
-</p>
 Il progetto è nato dall’idea di volermi cimentare in un videogioco “arcade” con la possibilità di giocarci attraverso 
-uno strumento musicale.
+uno strumento musicale.  
+</p>
+
 Essendo un trombonista, è stato facile per me scegliere il trombone a tal scopo, e ho scelto di rivisitare “flappy bird”, 
 gioco molto in voga nel 2013, con la possibilità di interagire attraverso i suoni armonici del trombone.
 Lo scopo del gioco è cercare di far volare l’uccellino, vincendo la forza di gravità, attraverso il maggior numero di pipes 

@@ -51,7 +51,9 @@ The application is written in HTML and CSS, for the graphics, while in Javascrip
 		</blockquote>
 </ol>
   
-  The <b>ml5.js library</b> 
+  The <b>ml5.js library</b> uses a pitch detection algorithm
+to estimate the fundamental frequency of an audio signal, and returns a decimal number that is used to associate
+the position along the axis of the bird's ordinates with the frequency in question.
 </p>
 
 Ciò è dovuto anche grazie alla libreria ml5.js, che sfrutta un algoritmo di pitch detection

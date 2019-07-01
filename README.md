@@ -28,7 +28,7 @@ completely fluid and natural.
 
 <p>
 The application is written in HTML and CSS, for the graphics, while in Javascript for the logic. <br>
-  This project includes several external libraries, that are:
+  This project includes three external libraries, that are:
   
   <ol>
 	<li>ml5.js</li>
@@ -51,7 +51,7 @@ The application is written in HTML and CSS, for the graphics, while in Javascrip
 		</blockquote>
 </ol>
   
-  
+  The <b>ml5.js library</b> 
 </p>
 
 Ciò è dovuto anche grazie alla libreria ml5.js, che sfrutta un algoritmo di pitch detection

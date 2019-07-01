@@ -53,14 +53,11 @@ The application is written in HTML and CSS, for the graphics, while in Javascrip
   
   The <b>ml5.js library</b> uses a pitch detection algorithm
 to estimate the fundamental frequency of an audio signal, and returns a decimal number that is used to associate
-the position along the axis of the bird's ordinates with the frequency in question.
+the position along the axis of the bird's ordinates with the frequency in question. <br>
+Moreover, the <b>p5.dom.js library</b> is used for canvas, text and images menagement, while the the <b>p5.sound.js library</b> is used for web audio features, such as the AudioContext creation and the microphone activation.
 </p>
 
-Ciò è dovuto anche grazie alla libreria ml5.js, che sfrutta un algoritmo di pitch detection
-per stimare la frequenza fondamentale di un segnale audio, e restituisce un numero decimale che ho sfruttato per associare 
-la posizione lungo l’asse delle ordinate dell’uccellino con la frequenza in questione.
-Inoltre, ho utilizzato le librerie p5.dom.js per la gestione della canvas, del testo e delle immagini e la p5.sound.js 
-per le funzionalità web audio, come la creazione del AudioContext e l’attivazione del microfono.
+
 Ho riprodotto la stringa del titolo e dello score utilizzando lo stesso font del gioco originale, 
 gestito tramite un apposito file .css, mentre la meccanica di gioco è gestita da un file principale (sketch.js) 
 collegato ad altri due file che gestiscono in maniera indipendente la variabile dell’uccellino e dei pipes (bird.js e pipe.js).

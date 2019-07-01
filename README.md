@@ -57,11 +57,12 @@ the position along the axis of the bird's ordinates with the frequency in questi
 Moreover, the <b>p5.dom.js library</b> is used for canvas, text and images menagement, while the the <b>p5.sound.js library</b> is used for web audio features, such as the AudioContext creation and the microphone activation.
 
 The application is managed by a principal javascript file, <b>sketch.js</b>, which regulates the game mechanics creating the AudioContext, starting the pitch detection function, managing the score and calling the two files bird.js and pipe.js.<br>
-Actually, the files <b>bird.js</b> and <b>pipe.js</b> operate indipendently the bird and the pipes variables, managing respectively the position and the displacement of the bird and the randomic position and displacement of the pipes.
+Actually, the files <b>bird.js</b> and <b>pipe.js</b> operate indipendently the bird and the pipes variables, managing respectively the position and the displacement of the bird (governed by the pitch detection algorithm) and the randomic position and displacement of the pipes.
 
+The title and score string are reproduced using the same font as the original game,
+managed through a proper .css file: <b>flappynone.css</b>.
 
-I reproduced the title and score string using the same font as the original game,
-managed through a proper .css file: <b>flappynone.css</b>
+Endly, 
 </p>
 
 

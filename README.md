@@ -10,15 +10,23 @@
 </p>
 
 <h2>Owner and Rights</h2>
-
 <p>
 The project was entirely realized by Francesco Lorenzo, graduates in Biomedical Engineeer at University of Padua and student of Music and Acoustics Engineering at Politecnico of Milan. <br>
 To him belongs all the rights of the application.
 </p>
  
 <h2>Goals</h2>
-
 <p>
+The project was born from the idea of wanting to try my hand at an "arcade" video game with the possibility of playing through a musical instrument.
+Being a trombonist, it was easy for me to choose the trombone for this purpose, and I chose to revisit <b>flappy bird<b>,
+very popular game in 2013, with the possibility of interacting with harmonic sounds.
+The aim of the game is to try to make the bird fly, overcoming the force of gravity, passing through the largest number of pipes
+possible, playing sounds with different heights depending on the arrangement of the tubes that run in the background.
+A difference of other instruments, such as the piano, the flute or the trumpet, the trombone, thanks to the coulisse,
+he is capable of producing sounds in a continuous manner, the so-called glissato, thanks to which the little bird can fly in such a way
+completely fluid and natural.
+</p>
+
 Il progetto è nato dall’idea di volermi cimentare in un videogioco “arcade” con la possibilità di giocarci attraverso 
 uno strumento musicale.Essendo un trombonista, è stato facile per me scegliere il trombone a tal scopo, e ho scelto di rivisitare “flappy bird”, 
 gioco molto in voga nel 2013, con la possibilità di interagire attraverso i suoni armonici del trombone.
@@ -26,10 +34,8 @@ Lo scopo del gioco è cercare di far volare l’uccellino, vincendo la forza di 
 possibile, suonando dei suoni con frequenze diverse a seconda della disposizione dei tubi che scorrono attraverso il background.
 A differenza di altri strumenti, quali ad esempio il pianoforte, il flauto o la tromba, il trombone, grazie alla coulisse, 
 è capace di produrre suoni in maniera continua, il così detto glissato, grazie ai quali l’uccellino può volare in maniera 
-del tutto fluida e naturale.  
-</p>
-
- Ciò è dovuto anche grazie alla libreria ml5.js, che sfrutta un algoritmo di pitch detection
+del tutto fluida e naturale.
+Ciò è dovuto anche grazie alla libreria ml5.js, che sfrutta un algoritmo di pitch detection
 per stimare la frequenza fondamentale di un segnale audio, e restituisce un numero decimale che ho sfruttato per associare 
 la posizione lungo l’asse delle ordinate dell’uccellino con la frequenza in questione.
 Inoltre, ho utilizzato le librerie p5.dom.js per la gestione della canvas, del testo e delle immagini e la p5.sound.js 

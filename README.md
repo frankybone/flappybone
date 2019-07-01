@@ -8,6 +8,12 @@
 </p>
 
 <h3>Owner and Rights</h3>
+
+<p>
+The project was entirely realized by Francesco Lorenzo, graduates in Biomedical Engineeer at University of Padua and student of Music and Acoustics Engineering at Politecnico di Milano. <br>
+To him belongs all the rights of the application.
+</p>
+ 
 Studente: Francesco Lorenzo, Matricola: 921159, Corso: ACTAM.
 
 Il progetto è nato dall’idea di volermi cimentare in un videogioco “arcade” con la possibilità di giocarci attraverso 

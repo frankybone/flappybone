@@ -17,7 +17,7 @@ To him belongs all the rights of the application.
  
 <h2>Goals</h2>
 <p>
-The project was born from the idea of wanting to try my hand at an arcade video game with the possibility of playing through a musical instrument.
+The project was born from the idea of wanting to try my hand at an arcade video game with the possibility of playing through a musical instrument.<br>
 Being a trombonist, it was easy for me to choose the <b>trombone</b> for this purpose, and <br> I chose to revisit <b>flappy bird</b>, a popular game during 2013, with the possibility of interacting with harmonic sounds.<br>
 The aim of the game is to try to make the bird fly passing through the largest number of pipes possible, overcoming the force of gravity, playing sounds with different heights depending on the arrangement of the pipes that run in the background.<br>
 Unlike other instruments such as the piano, the flute or the trumpet, the trombone, thanks to the coulisse, is capable of producing sounds in a continuous manner, the so-called <b>glissato</b>, thanks to which the little bird can fly in such a way

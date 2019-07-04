@@ -11,7 +11,7 @@
 
 <h2>Owner and Rights</h2>
 <p>
-The project was entirely realized by Francesco Lorenzo, graduates in Biomedical Engineer at University of Padua and student of Music and Acoustics Engineering at Politecnico of Milan. <br>
+The project was entirely realized by Francesco Lorenzo, graduates in Biomedical Engineering at University of Padua and student of Music and Acoustics Engineering at Politecnico of Milan. <br>
 To him belongs all the rights of the application.
 </p>
  
